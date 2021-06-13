@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @mariokid718
+- 👀 I’m interested in making games from Scratch code.
